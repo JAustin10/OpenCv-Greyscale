@@ -3,7 +3,7 @@ Greyscale is the process of converting an image from different color scales to s
 
 There are multiple ways to implement Greyscale but here the method of cv.cvtColor() function has been used.
 
-In order to implement the greyscale of an image,follow the steps given as follows:-
+In order to implement the greyscale of an image,follow the given steps:-
 STEP 1-Download the attached code.
 STEP 2-Open the terminal and activate the virtual environment you have created.
 STEP 3-Run the following command:
